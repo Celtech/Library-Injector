@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Injector.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Injector.Form1.resources
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Injector.Properties.Resources.resources
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Injector.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Injector.Form2.resources
+C:\Users\Tim\Desktop\Injector\Injector\bin\Debug\Library Injector.exe.config
+C:\Users\Tim\Desktop\Injector\Injector\bin\Debug\Library Injector.exe
+C:\Users\Tim\Desktop\Injector\Injector\bin\Debug\Library Injector.pdb
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Library Injector.exe
+C:\Users\Tim\Desktop\Injector\Injector\obj\Debug\Library Injector.pdb
